@@ -1,0 +1,7 @@
+2023-08-06 06:35:55.718560 - Initialized conversion of CBT703
+2023-08-06 06:35:55.757355 - Received CBT.V505.FILE703.PDS from FILE703.XMI 
+2023-08-06 06:35:55.759547 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:35:55.760669 - Found $$NOTE0.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$NOTE0
+2023-08-06 06:35:55.761672 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:35:55.762560 - Found @FILE703.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/@FILE703
+2023-08-06 06:35:55.763462 - Found PFD2ISPF.jcl (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/PFD2ISPF
