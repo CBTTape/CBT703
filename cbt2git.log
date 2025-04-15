@@ -1,6 +1,6 @@
-2025-04-15 04:52:39.777632 - Received CBT.V505.FILE703.PDS from FILE703.XMI 
-2025-04-15 04:52:39.778860 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:52:39.779065 - Found $$NOTE0.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$NOTE0
-2025-04-15 04:52:39.779260 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$NOTE1
-2025-04-15 04:52:39.779437 - Found @FILE703.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/@FILE703
-2025-04-15 04:52:39.779783 - Found PFD2ISPF.jcl (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/PFD2ISPF
+2025-04-15 23:32:56.665252 - Received CBT.V505.FILE703.PDS from FILE703.XMI 
+2025-04-15 23:32:56.666476 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:32:56.666679 - Found $$NOTE0.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$NOTE0
+2025-04-15 23:32:56.666863 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/$$NOTE1
+2025-04-15 23:32:56.666911 - Found @FILE703.txt (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/@FILE703
+2025-04-15 23:32:56.667274 - Found PFD2ISPF.jcl (text/plain) in CBT.V505.FILE703.PDS, moved to PDS/PFD2ISPF
